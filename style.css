@@ -1,0 +1,16 @@
+
+.card {
+	height: 100%;
+}
+
+.card-header {
+	background-color: #343a40;
+	color: rgb(238, 74, 74);
+}
+
+.card-body {
+	min-height: 150px;
+}
+.card{
+	background-color: aqua;
+}
